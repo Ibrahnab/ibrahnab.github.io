@@ -249,3 +249,22 @@ p.gray {
     background-image: url("../images/userflow.svg");
     width:100%
 }
+
+.cover-container {
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.cover-item
+{
+    position: relative;
+    margin: 8px 8px;
+    box-shadow: 2px 2px 4px #bbb;
+    border-top-right-radius: 4px;
+    vertical-align: bottom;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
