@@ -279,5 +279,21 @@ img.tech {
 
 .phoneanimations {
     margin-top:90px;
+}
 
+#banner {
+    padding:25px;
+    height:auto;
+    width:100%;
+    border-radius: 25px;
+    background-image: url("../images/bannerbg.png");
+}
+.lastp{
+    color:white;
+    text-align: center;
+    font-weight: 500;
+}
+
+.reflection{
+    margin-top:25px;
 }
