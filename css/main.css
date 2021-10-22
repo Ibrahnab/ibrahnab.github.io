@@ -244,3 +244,8 @@ p.gray {
     margin-left:0px;
     float: right;
 }
+
+.container-fluid.user-flow{
+    background-image: url("../images/userflow.svg");
+    width:100%
+}
