@@ -211,3 +211,12 @@ p.gray {
     margin-top:20px;
     margin-bottom:20px;
 }
+
+.container.directions{
+    margin-bottom:50px;
+    margin-top:50px;
+}
+
+#direction {
+    box-shadow: 0 3px 15px -2px gray;
+}
