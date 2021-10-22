@@ -2,7 +2,11 @@
     margin-top:0px;
     font-family: 'Montserrat';
     color: #FD5523;
-    font-size: 100px;
+    /* font-size: 100px; */
+}
+
+.title {
+    font-size:100px;
 }
 
 h3.slogan {
@@ -127,7 +131,24 @@ p.dark {
 #designprocessheader {
     text-align: right;
 }
-/* 
-.container-fluid.design-process{
-    background-image: url("../images/designprocess.png");
-} */
+
+p.gray {
+    color: #66CAAD;
+    font-family: 'Montserrat';
+}
+
+#users{
+    width: 100%;
+    height: 1100px;
+    background-image: url("../images/Empathisesection.png");
+}
+
+.textcard.users{
+    float:right;
+    margin-right: 50px;
+}
+
+.dark.empathise {
+    text-align: center;
+    margin-bottom:50px;
+}
