@@ -40,3 +40,14 @@ p.green{
 p.green.top{
     margin-top: 50px;
 }
+
+#video {
+    background-image: url("../images/background.png");
+}
+#videobottom {
+    height:100px;
+    background-color:#34344A;
+    width:100%;
+    border-radius: 0px 0px 11000px 11000px;
+    background-image: url("../images/background.png");
+}
