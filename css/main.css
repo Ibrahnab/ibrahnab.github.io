@@ -72,6 +72,11 @@ p.white {
     text-align:left;
 }
 
+p.white.center {
+    text-align: center;
+    margin-top:20px;
+}
+
 h1.dark {
     font-family: 'Montserrat';
     color: #FD5523;
