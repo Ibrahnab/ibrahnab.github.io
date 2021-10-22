@@ -78,6 +78,11 @@ h1.dark {
     text-align:left;
 }
 
+h1.dark.center {
+    text-align: center;
+    margin-bottom:50px;
+}
+
 h3.dark {
     font-family: 'Montserrat';
     color: #FD5523;
@@ -178,4 +183,14 @@ p.gray {
 
 #journeymap {
     width:100%;
+}
+
+#problem-statement{
+    margin-top:100px;
+}
+
+.white.list {
+    font-family: 'Roboto';
+    color: #34344A;
+    text-align:left;
 }
