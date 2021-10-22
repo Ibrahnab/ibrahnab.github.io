@@ -268,3 +268,11 @@ p.gray {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#vuejsvideo{
+    float: right;
+}
+
+img.tech {
+    float: left;
+}
