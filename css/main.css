@@ -51,3 +51,15 @@ p.green.top{
     border-radius: 0px 0px 11000px 11000px;
     background-image: url("../images/background.png");
 }
+
+h3.white {
+    font-family: 'Montserrat';
+    color: #FD5523;
+    text-align:left;
+}
+
+p.white {
+    font-family: 'Roboto';
+    color: #34344A;
+    text-align:left;
+}
