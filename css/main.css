@@ -194,3 +194,20 @@ p.gray {
     color: #34344A;
     text-align:left;
 }
+
+.box {
+    display: inline;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid rgb(199, 199, 199);
+    margin: 0;
+    box-shadow: 0 3px 10px -2px gray;
+    border-radius: 25px;
+    margin-right:10px;
+    margin-left:10px;
+}
+
+.row.ideas{
+    margin-top:20px;
+    margin-bottom:20px;
+}
