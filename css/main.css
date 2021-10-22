@@ -84,6 +84,10 @@ h3.dark {
     text-align:left;
 }
 
+h3.dark.center {
+    text-align: center;
+}
+
 p.dark {
     font-family: 'Roboto';
     color: #FEFCD5;
@@ -125,8 +129,8 @@ p.dark {
     min-height:500px;
 }
 .sectioncontainer {
-    margin-top:20px;
-    margin-bottom: 20px;
+    margin-top:50px;
+    margin-bottom: 50px;
 }
 #designprocessheader {
     text-align: right;
@@ -170,4 +174,8 @@ p.gray {
 }
 .lightcard.three p.white{
     margin-top: 20px;
+}
+
+#journeymap {
+    width:100%;
 }
