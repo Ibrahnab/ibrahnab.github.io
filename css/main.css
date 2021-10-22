@@ -52,6 +52,10 @@ p.green.top{
     background-image: url("../images/background.png");
 }
 
+#about {
+    padding-bottom:50px;
+}
+
 h3.white {
     font-family: 'Montserrat';
     color: #FD5523;
@@ -62,4 +66,47 @@ p.white {
     font-family: 'Roboto';
     color: #34344A;
     text-align:left;
+}
+
+h1.dark {
+    font-family: 'Montserrat';
+    color: #FD5523;
+    text-align:left;
+}
+
+h3.dark {
+    font-family: 'Montserrat';
+    color: #FD5523;
+    text-align:left;
+}
+
+p.dark {
+    font-family: 'Roboto';
+    color: #FEFCD5;
+    text-align:left;
+}
+
+#background-header {
+    text-align: center;
+}
+
+#background-section-container2{
+    background-image: url("../images/backgroundsection.png");
+    min-height:1500px;
+}
+
+#background-section {
+    margin-top:400px;
+}
+
+.textcard {
+    background-color: #34344A;
+    border-radius:25px;
+    padding:50px;
+    max-width:600px;
+}
+
+#offsetcard {
+    margin-top: 200px;
+
 }
