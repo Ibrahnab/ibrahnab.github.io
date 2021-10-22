@@ -156,3 +156,18 @@ p.gray {
 .row.center {
     align-items: center;
 }
+
+.lightcard {
+    background-color: #C2F9C4;
+    border-radius:25px;
+    padding:50px;
+    margin-top:20px;
+}
+
+.lightcard.three{
+    min-width: 300px;
+    min-height: 400px;
+}
+.lightcard.three p.white{
+    margin-top: 20px;
+}
