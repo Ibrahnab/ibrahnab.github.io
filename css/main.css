@@ -138,6 +138,29 @@ p.dark {
     margin-top: 0px;
 
 }
+#offsetcard2 {
+    margin-top: 20px;
+
+}
+
+.observations-icons {
+    width:50%;
+    -webkit-backface-visibility: hidden;
+    -ms-transform: translateZ(0); /* IE 9 */
+    -webkit-transform: translateZ(0); /* Chrome, Safari, Opera */
+    transform: translateZ(0);
+}
+
+.storyboard{
+    max-width:100%;
+    -webkit-backface-visibility: hidden;
+    -ms-transform: translateZ(0); /* IE 9 */
+    -webkit-transform: translateZ(0); /* Chrome, Safari, Opera */
+    transform: translateZ(0);
+}
+
+.storyboard.two{
+}
 
 #designprocess {
     width: 80%;
@@ -186,7 +209,7 @@ p.gray {
 
 .lightcard.three{
     min-width: 300px;
-    min-height: 400px;
+    min-height: 500px;
 }
 .lightcard.three p.white{
     margin-top: 20px;
