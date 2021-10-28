@@ -160,6 +160,12 @@ p.dark {
 }
 
 .storyboard.two{
+    margin-top: auto;
+}
+
+.col-sm.storyboard{
+    display: flex;
+    flex-direction: column;
 }
 
 #designprocess {
