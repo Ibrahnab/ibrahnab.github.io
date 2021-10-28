@@ -77,6 +77,12 @@ p.white.center {
     margin-top:20px;
 }
 
+ul.white {
+    font-family: 'Roboto';
+    color: #34344A;
+    text-align:left;
+}
+
 h1.dark {
     font-family: 'Montserrat';
     color: #FD5523;
@@ -129,7 +135,7 @@ p.dark {
 }
 
 #offsetcard {
-    margin-top: 100px;
+    margin-top: 0px;
 
 }
 
