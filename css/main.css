@@ -234,6 +234,17 @@ p.gray {
     margin-top: 20px;
 }
 
+.lightcard.five{
+    min-width: 300px;
+    min-height: 400px;
+}
+.lightcard.five.dark{
+    background-color: cadetblue;
+}
+.lightcard.five p.white{
+    margin-top: 20px;
+}
+
 #journeymap {
     width:100%;
 }
