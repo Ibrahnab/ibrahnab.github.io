@@ -100,6 +100,19 @@ h3.dark {
     text-align:left;
 }
 
+h5.dark {
+    font-family: 'Montserrat';
+    color: #FD5523;
+    text-align:left;
+}
+
+h3.references {
+    color:black;
+    text-align: left;
+    font-family: 'Montserrat';
+}
+
+
 h3.dark.center {
     text-align: center;
 }
